@@ -32,6 +32,9 @@
     </a>
     <a href="https://getbootstrap.com" target="_blank"> 
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
+    </a>
+    <a href="https://styled-components.com/" target="_blank"> 
+        <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styledcomponents" /> 
     </a> 
     <a href="https://reactjs.org/" target="_blank"> 
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> 
