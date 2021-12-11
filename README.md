@@ -12,7 +12,7 @@
 - Personal Portfolio :  [https://franciscusranggayogianto.netlify.app](https://franciscusranggayogianto.netlify.app)
 
 
-<p>
+<p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franggay&show_icons=true&locale=en&layout=compact" alt="franggay" />
 </p>
 
@@ -22,10 +22,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/franciscusranggayogianto/" target="blank">
+    <a href="https://www.linkedin.com/in/franciscusranggayogianto/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="franciscus rangga yogianto"/>
     </a>
-    <a href="https://discordapp.com/users/440819706283425794/" target="blank">
+    <a href="https://discordapp.com/users/440819706283425794/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
     &nbsp;
