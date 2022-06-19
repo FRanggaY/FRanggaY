@@ -5,9 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=franggay&label=Profile%20views&color=0e75b6&style=flat" alt="franggay" /> 
 </p>
 
-## About Me
-- Personal Portfolio :  [https://franciscusranggayogianto.netlify.app](https://franciscusranggayogianto.netlify.app)
-
 
 ## Tech/Software Stack
 Tech                     | Data  
