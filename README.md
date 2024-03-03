@@ -2,7 +2,7 @@
 
 [![Profile View](https://komarev.com/ghpvc/?username=franggay&style=for-the-badge)](https://github.com/franggay)  
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello+World!;This+is+who+I+am)](https://git.io/typing-svg)
 
